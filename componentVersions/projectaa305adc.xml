@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="ChangeListManager" version="1344506184635" />
-  <component name="ChangesViewManager" version="1344506184636" />
-  <component name="CreatePatchCommitExecutor" version="1344506184640" />
-  <component name="DaemonCodeAnalyzer" version="1344506184641" />
+  <component name="ChangeListManager" version="1344508993655" />
+  <component name="ChangesViewManager" version="1344508177045" />
+  <component name="CreatePatchCommitExecutor" version="1344508177227" />
+  <component name="DaemonCodeAnalyzer" version="1344508177227" />
   <component name="DockManager" version="1344504566861" />
-  <component name="Encoding" version="1344506184642" />
-  <component name="FavoritesManager" version="1344506184642" />
-  <component name="FileEditorManager" version="1344506184643" />
-  <component name="FindManager" version="1344506184643" />
+  <component name="Encoding" version="1344508178226" />
+  <component name="FavoritesManager" version="1344508178226" />
+  <component name="FileEditorManager" version="1344508993656" />
+  <component name="FindManager" version="1344508648985" />
   <component name="Git.Push.Settings" version="1344447016283" />
-  <component name="Git.Settings" version="1344506184659" />
-  <component name="GitLogSettings" version="1344506184659" />
-  <component name="IdeDocumentHistory" version="1344506184693" />
+  <component name="Git.Settings" version="1344508178229" />
+  <component name="GitLogSettings" version="1344508178229" />
+  <component name="IdeDocumentHistory" version="1344508566422" />
   <component name="PhpWorkspaceProjectConfiguration" version="1344506050883" />
-  <component name="ProjectFrameBounds" version="1344506184780" />
-  <component name="ProjectLevelVcsManager" version="1344506184780" />
-  <component name="ProjectModuleManager" version="1344506184781" />
-  <component name="ProjectReloadState" version="1344506184781" />
+  <component name="ProjectFrameBounds" version="1344508179857" />
+  <component name="ProjectLevelVcsManager" version="1344508179857" />
+  <component name="ProjectModuleManager" version="1344508179919" />
+  <component name="ProjectReloadState" version="1344508179919" />
   <component name="ProjectResources" version="1344496997203" />
-  <component name="ProjectRootManager" version="1344506184781" />
-  <component name="ProjectView" version="1344506184785" />
-  <component name="PropertiesComponent" version="1344506184785" />
-  <component name="PublishConfig" version="1344506184880" />
+  <component name="ProjectRootManager" version="1344508179919" />
+  <component name="ProjectView" version="1344508993660" />
+  <component name="PropertiesComponent" version="1344509055485" />
+  <component name="PublishConfig" version="1344508179927" />
   <component name="RecentsManager" version="1344498783888" />
   <component name="RestoreUpdateTree" version="1342876953864" />
-  <component name="RunManager" version="1344506184926" />
-  <component name="ShelveChangesManager" version="1344506184926" />
-  <component name="SvnConfiguration" version="1344506184928" />
-  <component name="TaskManager" version="1344506184942" />
+  <component name="RunManager" version="1344508179929" />
+  <component name="ShelveChangesManager" version="1344508179929" />
+  <component name="SvnConfiguration" version="1344508993661" />
+  <component name="TaskManager" version="1344508649000" />
   <component name="TodoView" version="1344441295604" />
-  <component name="ToolWindowManager" version="1344506191129" />
-  <component name="VcsContentAnnotationSettings" version="1344506184944" />
-  <component name="VcsDirectoryMappings" version="1344506184944" />
-  <component name="VcsManagerConfiguration" version="1344506184945" />
-  <component name="XDebuggerManager" version="1344506184948" />
-  <component name="atlassian-ide-plugin-workspace" version="1344506184949" />
-  <component name="atlassian-ide-plugin-workspace-issues" version="1344506191136" />
-  <component name="editorHistoryManager" version="1344506184989" />
+  <component name="ToolWindowManager" version="1344509055490" />
+  <component name="VcsContentAnnotationSettings" version="1344508179967" />
+  <component name="VcsDirectoryMappings" version="1344508179968" />
+  <component name="VcsManagerConfiguration" version="1344508649000" />
+  <component name="XDebuggerManager" version="1344508179970" />
+  <component name="atlassian-ide-plugin-workspace" version="1344508179970" />
+  <component name="atlassian-ide-plugin-workspace-issues" version="1344509055492" />
+  <component name="editorHistoryManager" version="1344508993667" />
 </versions>
 
