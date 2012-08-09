@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="/usr/bin/git" />
+  </component>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@git.mayflower.de:ausbildung/hadoop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@smartdevs.beanstalkapp.com:/fashionette.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://root@www.klara-oppenheimer-schule.de:9001/web/kos_drupal/htdocs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git://git@www.klara-oppenheimer-schule.de/web/kos_drupal/htdocs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://www.klara-oppenheimer-schule.de/web/kos_drupal/htdocs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="/Applications/MAMP/htdocs" />
+  </component>
+</application>
+

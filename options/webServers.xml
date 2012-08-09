@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc5a59b8-5c54-428b-a15e-9a4f446e61d9" name="MySQLDumper" url="http://msd">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d336c315-994d-4a02-9e43-538ef087540f" name="JS Test Driver" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="18ff7a2a-aef9-4fc0-975e-c61a256bd3d9" name="Foto Jena" url="http://foto-jena.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2816725f-e7f8-437d-911b-52956dd2fa5d" name="extjs" url="http://extjs.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e79f767c-6da6-4d78-bc22-848c4135b413" name="mobile.dev" url="http://mobile.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a22dd4df-855a-4334-888b-36faac986a0a" name="notes" url="http://notes.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="346142e0-18c2-4bc4-8cf7-dcfaadf5f17f" name="OXID DEV Cloud" url="http://preview.schokoladen-kunst.freehostingcloud.com">
+        <fileTransfer host="ftp.schokoladen-kunst.freehostingcloud.com" port="21" password="dfe9dfc6dfe6dfcfdf99df9edfc1df93dfc9df9e" username="ftp@schokoladen-kunst.freehostingcloud.com" />
+      </webServer>
+      <webServer id="1017c73e-9c19-454a-92c7-8fe12ebf852e" name="Schokoladen-Kunst.de" url="http://schokoladen-kunst.de">
+        <fileTransfer host="schokoladen-kunst.de.server966-han.de-nserver.de" port="21" password="dfd9dfdfdfd9dfd9dfcbdfc4dfcfdf8b" username="schskqgv1" />
+      </webServer>
+      <webServer id="debb6460-3062-4e4e-ae01-afa87e91c8cf" name="Klara-Oppenheimer" url="http://10.200.10.6">
+        <fileTransfer host="10.200.10.6" port="21" rootFolder="/htdocs" password="dfdfdfc4dfcfdfe2dff8dfefdfc9dffbdfe6dfd3dfebdff0dfdadff9df9cdfd8" username="kos_drupal" />
+      </webServer>
+      <webServer id="049f181c-ebdd-49a3-809c-9e7e98e949a7" name="Pollex" url="http://pollex.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
+

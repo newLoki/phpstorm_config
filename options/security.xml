@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array />
+        <array />
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@bitbucket.org" method="publickey" />
+    <successfulAuthentication user="git@git.mayflower.de" method="publickey" />
+    <successfulAuthentication user="git@github.com" method="publickey" />
+    <successfulAuthentication user="git@smartdevs.beanstalkapp.com" method="publickey" />
+    <successfulAuthentication user="root@www.klara-oppenheimer-schule.de:9001" method="publickey" />
+  </component>
+</application>
+

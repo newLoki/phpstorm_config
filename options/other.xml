@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="1234" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="60" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="sidebar_width" />
+          <item index="1" class="java.lang.String" itemvalue="form-item " />
+          <item index="2" class="java.lang.String" itemvalue="#5b627a" />
+          <item index="3" class="java.lang.String" itemvalue="eef0f7" />
+          <item index="4" class="java.lang.String" itemvalue="css" />
+          <item index="5" class="java.lang.String" itemvalue="contextual-links-processed" />
+          <item index="6" class="java.lang.String" itemvalue="contextual-links-wrapper" />
+          <item index="7" class="java.lang.String" itemvalue="),(" />
+          <item index="8" class="java.lang.String" itemvalue="path" />
+          <item index="9" class="java.lang.String" itemvalue="menu" />
+          <item index="10" class="java.lang.String" itemvalue="`menu" />
+          <item index="11" class="java.lang.String" itemvalue="err" />
+          <item index="12" class="java.lang.String" itemvalue="jassy" />
+          <item index="13" class="java.lang.String" itemvalue="atomic" />
+          <item index="14" class="java.lang.String" itemvalue="span-7 last" />
+          <item index="15" class="java.lang.String" itemvalue="joomla-nav" />
+          <item index="16" class="java.lang.String" itemvalue="sidebar" />
+          <item index="17" class="java.lang.String" itemvalue="reboot" />
+          <item index="18" class="java.lang.String" itemvalue="puppet" />
+          <item index="19" class="java.lang.String" itemvalue="pecl" />
+          <item index="20" class="java.lang.String" itemvalue="pear" />
+          <item index="21" class="java.lang.String" itemvalue="/home/user" />
+          <item index="22" class="java.lang.String" itemvalue=" 'user'" />
+          <item index="23" class="java.lang.String" itemvalue="&quot;&quot;" />
+          <item index="24" class="java.lang.String" itemvalue="/home/user/" />
+          <item index="25" class="java.lang.String" itemvalue="User['user']" />
+          <item index="26" class="java.lang.String" itemvalue="user" />
+          <item index="27" class="java.lang.String" itemvalue="innotop" />
+          <item index="28" class="java.lang.String" itemvalue="profile" />
+          <item index="29" class="java.lang.String" itemvalue="bashrc" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="https://github.com/newLoki/Pollex/blob/gh-pages/mockups/json" />
+          <item index="1" class="java.lang.String" itemvalue="gh-pages/_includes/mockups" />
+          <item index="2" class="java.lang.String" itemvalue="class='javascript' name=&quot;code&quot;" />
+          <item index="3" class="java.lang.String" itemvalue="&lt;pre class=&quot;brush: js&quot;&gt;" />
+          <item index="4" class="java.lang.String" itemvalue="&lt;/pre&gt;" />
+          <item index="5" class="java.lang.String" itemvalue="highlighter" />
+          <item index="6" class="java.lang.String" itemvalue="passwords" />
+          <item index="7" class="java.lang.String" itemvalue="    '(\w*)':" />
+          <item index="8" class="java.lang.String" itemvalue="    '\1':" />
+          <item index="9" class="java.lang.String" itemvalue="    \'\1\':" />
+          <item index="10" class="java.lang.String" itemvalue="    '$1':" />
+          <item index="11" class="java.lang.String" itemvalue="json/members" />
+          <item index="12" class="java.lang.String" itemvalue="," />
+          <item index="13" class="java.lang.String" itemvalue="etshop_config" />
+          <item index="14" class="java.lang.String" itemvalue="etshop" />
+          <item index="15" class="java.lang.String" itemvalue="Exec[&quot;log.io&quot;]" />
+          <item index="16" class="java.lang.String" itemvalue="_group" />
+          <item index="17" class="java.lang.String" itemvalue="= " />
+          <item index="18" class="java.lang.String" itemvalue="transparent" />
+          <item index="19" class="java.lang.String" itemvalue="'/'" />
+          <item index="20" class="java.lang.String" itemvalue="$top_image_background" />
+          <item index="21" class="java.lang.String" itemvalue="kos_theme" />
+          <item index="22" class="java.lang.String" itemvalue="$orange_link" />
+          <item index="23" class="java.lang.String" itemvalue="project_name" />
+          <item index="24" class="java.lang.String" itemvalue="project_" />
+          <item index="25" class="java.lang.String" itemvalue="vagran" />
+          <item index="26" class="java.lang.String" itemvalue="/home/vagrant" />
+          <item index="27" class="java.lang.String" itemvalue=" 'vagrant'" />
+          <item index="28" class="java.lang.String" itemvalue="User['vagrant']" />
+          <item index="29" class="java.lang.String" itemvalue="vagrant" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Klara-Oppenheimer-Schule/drupal-7.12/themes/adaptivetheme" />
+          <item index="1" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Klara-Oppenheimer-Schule/drupal-7.12/themes/klara_oppenheimer_theme" />
+          <item index="2" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Klara-Oppenheimer-Schule/drupal-7.12/themes" />
+          <item index="3" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/together" />
+          <item index="4" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/together/library/Doctrine" />
+          <item index="5" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex/documentation" />
+          <item index="6" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex.github.com" />
+          <item index="7" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex/_posts" />
+          <item index="8" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex/_includes/mockups/json" />
+          <item index="9" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex/vendor/kherge/config/src/KevinGH/Silex/Config" />
+          <item index="10" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex" />
+          <item index="11" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/symfony-standard" />
+          <item index="12" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/fashionette/config" />
+          <item index="13" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Vaillant-ETShop/config/definitions/mf-debian-etshop" />
+          <item index="14" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex/vendor/symfony/browser-kit" />
+          <item index="15" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex/vendor/symfony" />
+          <item index="16" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/oxid" />
+          <item index="17" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Vaillant-ETShop/config/modules/php" />
+          <item index="18" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/pollex/tests/Tests" />
+          <item index="19" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_drupal2" />
+          <item index="20" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_old/sites/all/themes/klara_oppenheimer_zen_theme" />
+          <item index="21" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_old/sites/all/themes" />
+          <item index="22" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_old/modules/node" />
+          <item index="23" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_old/modules" />
+          <item index="24" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_old/sites/all/themes/klara_oppenheimer_zen_theme/sass" />
+          <item index="25" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_old/sites" />
+          <item index="26" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/kos_old" />
+          <item index="27" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Joomla_2.5.6-Stable-Full_Package/templates/atomic" />
+          <item index="28" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Vaillant-ETShop/config/modules" />
+          <item index="29" class="java.lang.String" itemvalue="/Applications/MAMP/htdocs/Vaillant-ETShop/config/definitions/debian60-x86" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="11">
+          <item index="0" class="java.lang.String" itemvalue="*.properties" />
+          <item index="1" class="java.lang.String" itemvalue="*.html" />
+          <item index="2" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="3" class="java.lang.String" itemvalue="*.xml" />
+          <item index="4" class="java.lang.String" itemvalue="*.java" />
+          <item index="5" class="java.lang.String" itemvalue="*.as" />
+          <item index="6" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="7" class="java.lang.String" itemvalue="*.js" />
+          <item index="8" class="java.lang.String" itemvalue="*.css" />
+          <item index="9" class="java.lang.String" itemvalue="*.markdown" />
+          <item index="10" class="java.lang.String" itemvalue="*.php" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="PROXY_HOST" value="10.0.0.18" />
+    <option name="PROXY_PORT" value="8080" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_METHOD" value="true" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="0.5" version="1">
+    <option name="AVAILABLE_SORT_MODE" value="0" />
+    <option name="AVAILABLE_SORT_BY_STATUS" value="false" />
+    <option name="myOutdatedPlugins">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="CSS-X-Fire" />
+          <item index="1" class="java.lang.String" itemvalue="JSTestDriver Plugin" />
+        </list>
+      </value>
+    </option>
+    <option name="myInstalledPlugins">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <available-proportions proportions="" version="1" />
+  </component>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="/Applications/MAMP/htdocs/Vaillant-ETShop" />
+        <option value="/Applications/MAMP/htdocs/kos_old" />
+        <option value="/Applications/MAMP/htdocs/Joomla_2.5.6-Stable-Full_Package" />
+        <option value="/Applications/MAMP/htdocs/kos_deploy" />
+        <option value="$USER_HOME$/Desktop/vagrant" />
+        <option value="$USER_HOME$/Desktop" />
+        <option value="$USER_HOME$/Desktop/config" />
+        <option value="/Applications/MAMP/htdocs/pollex" />
+        <option value="/Applications/MAMP/htdocs" />
+        <option value="/Applications/MAMP/htdocs/kos_drupal2" />
+        <option value="/Applications/MAMP/htdocs/kos_drupal" />
+        <option value="/Applications/MAMP/htdocs/mobileTravisCI" />
+        <option value="/Applications/MAMP/htdocs/mobile.travis-ci" />
+        <option value="/Applications/MAMP/htdocs/oxid" />
+        <option value="/Applications/MAMP/htdocs/puppet-etshop" />
+        <option value="/Applications/MAMP/htdocs/puppet-etshop/manifests" />
+        <option value="/Applications/MAMP/htdocs/buildsystems" />
+        <option value="/Applications/MAMP/htdocs/fashionette" />
+        <option value="/Applications/MAMP/htdocs/symfony-standard" />
+        <option value="/Applications/MAMP/htdocs/sicherung-2012-01-05/home/schskqgv/www.schokoladen-kunst.de" />
+        <option value="/Applications/MAMP/htdocs/slexboard" />
+        <option value="/Applications/MAMP/htdocs/mashboard" />
+        <option value="/Applications/MAMP/htdocs/pollex.github.com" />
+        <option value="/Applications/MAMP/htdocs/TattooModels" />
+        <option value="/Applications/MAMP/htdocs/jira_timer" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="/Applications/MAMP/htdocs/Vaillant-ETShop" />
+      </list>
+    </option>
+    <option name="names">
+      <map>
+        <entry key="/Applications/MAMP/htdocs" value="" />
+        <entry key="/Applications/MAMP/htdocs/TattooModels" value="" />
+        <entry key="/Applications/MAMP/htdocs/buildsystems" value="" />
+        <entry key="/Applications/MAMP/htdocs/fashionette" value="" />
+        <entry key="/Applications/MAMP/htdocs/jira_timer" value="" />
+        <entry key="/Applications/MAMP/htdocs/kos_deploy" value="" />
+        <entry key="/Applications/MAMP/htdocs/kos_drupal" value="" />
+        <entry key="/Applications/MAMP/htdocs/kos_drupal2" value="" />
+        <entry key="/Applications/MAMP/htdocs/kos_old" value="" />
+        <entry key="/Applications/MAMP/htdocs/mashboard" value="" />
+        <entry key="/Applications/MAMP/htdocs/mobile.travis-ci" value="" />
+        <entry key="/Applications/MAMP/htdocs/mobileTravisCI" value="" />
+        <entry key="/Applications/MAMP/htdocs/oxid" value="" />
+        <entry key="/Applications/MAMP/htdocs/pollex" value="" />
+        <entry key="/Applications/MAMP/htdocs/sicherung-2012-01-05/home/schskqgv/www.schokoladen-kunst.de" value="" />
+        <entry key="/Applications/MAMP/htdocs/slexboard" value="" />
+        <entry key="/Applications/MAMP/htdocs/symfony-standard" value="" />
+        <entry key="$USER_HOME$/Desktop" value="" />
+        <entry key="$USER_HOME$/Desktop/config" value="" />
+        <entry key="$USER_HOME$/Desktop/vagrant" value="" />
+        <entry key="null" value="" />
+      </map>
+    </option>
+    <option name="lastPath" value="/Applications/MAMP/htdocs/Vaillant-ETShop" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.opensource.mayflower.de">
+      <password>dfd9dfdfdfd9dfd9dfcbdfc4dfcfdf8b</password>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>alberto.assmann</username>
+    </JIRA>
+    <JIRA shared="false" url="jira.opensource.mayflower.de">
+      <password>dfd9dfdfdfd9dfd9dfcbdfc4dfcfdf8b</password>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>alberto.assmann</username>
+    </JIRA>
+    <JIRA shared="false" url="https://mysqldumper.jira.com">
+      <password>dfd9dfdfdfd9dfd9dfcbdfc4dfcfdf8b</password>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>newloki</username>
+    </JIRA>
+    <JIRA shared="false" url="http://jira.opensource.mayflower.de">
+      <password>dfd9dfdfdfd9dfd9dfcbdfc4dfcfdf8b</password>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>alberto.assmann</username>
+    </JIRA>
+  </component>
+  <component name="Registry">
+    <entry key="ide.firstStartup" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.vgdev.eu/repos/comdialog/comDialog/swc-mobile-backend/trunk" />
+        <option value="https://svn.vgdev.eu/repos/comdialog/comDialog/swc-mobile-app/trunk" />
+        <option value="https://mysqldumper.jira.com/svn/OTC/trunk" />
+        <option value="https://mysqldumper.jira.com/svn/MSD/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.vgdev.eu/repos/comdialog/comDialog/swc-mobile-backend/trunk" />
+        <option value="https://svn.vgdev.eu/repos/comdialog/comDialog/swc-mobile-app/trunk" />
+        <option value="https://mysqldumper.jira.com/svn/OTC/trunk" />
+        <option value="https://mysqldumper.jira.com/svn/MSD/trunk/" />
+        <option value="https://mysqldumper.jira.com/svn" />
+        <option value="svn+ssh://mysqldumper.jira.com/svn" />
+        <option value="svn://mysqldumper.jira.com/svn" />
+        <option value="https://mysqldumper.jira.com/svn/" />
+        <option value="http://msd2.mysqldumper.de" />
+      </list>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="VCS Commit" />
+        <option value="VCS Update" />
+      </set>
+    </option>
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="ENTER" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ff" />
+      <option name="BACKGROUND" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" />
+      <option name="EFFECT_TYPE" value="0" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="4">
+          <item index="0" class="java.lang.String" itemvalue="WI1" />
+          <item index="1" class="java.lang.String" itemvalue="WI2" />
+          <item index="2" class="java.lang.String" itemvalue="WI3" />
+          <item index="3" class="java.lang.String" itemvalue="WI4" />
+        </list>
+      </value>
+    </option>
+    <option name="myIgnoredBuildNumbers">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="107.592" />
+        </list>
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="LAST_TIME_CHECKED" value="1344503628685" />
+    <option name="LAST_BUILD_CHECKED" value="PS-117.746" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SHOW_IN_TOOLBAR" value="true" />
+    <option name="SHOW_IN_MAIN_MENU" value="true" />
+    <option name="OPEN_NEW_TAB" value="false" />
+    <option name="HIGHLIGHT_RESULTS" value="true" />
+    <option name="SHOW_USAGE_VIEW" value="false" />
+    <option name="SEARCH_SCOPE">
+      <value type="PROJECT" />
+    </option>
+    <option name="MATCH_RECURSIVELY" value="false" />
+    <option name="attributes">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="ffd578" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="contextAttributes">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="c2ffd4" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="scrollToFirst" value="true" />
+    <option name="bUseContextAtCursor" value="true" />
+    <option name="bHighlightStartTagOnly" value="true" />
+    <option name="bAddErrorStripe" value="true" />
+  </component>
+  <component name="XSLT-Support.Configuration">
+    <option name="SHOW_LINKED_FILES" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Zend View" />
+            <item index="1" class="java.lang.String" itemvalue="SASS" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+    <default_templates />
+    <internal_templates />
+    <includes_templates />
+    <code_templates />
+    <j2ee_templates />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
+    <enableFiles value="false" />
+    <enableFolders value="false" />
+    <filesTool value="" newValue="" />
+    <foldersTool value="" newValue="" />
+  </component>
+</application>
+
