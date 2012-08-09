@@ -54,6 +54,7 @@
     <location key="findTextDialog.0.22.1280.774" x="341" y="175" />
     <location key="git4idea.merge.GitPullDialog.0.22.1280.774" x="346" y="206" />
     <location key="NotificationsPopup" x="30" y="228" />
+    <location key="NewPhpFileDialog.-1680.38.1680.1050" x="-991" y="495" />
     <location key="OptionsEditor.0.22.1280.774" x="56" y="22" />
     <location key="VCS.ChangeListViewerDialog.0.22.1280.774" x="381" y="128" />
     <location key="NewPhpFileAction.0.22.1280.774" x="463" y="338" />
@@ -127,10 +128,10 @@
     <size key="DiffWindow.0.22.1280.774" width="1210" height="670" />
     <size key="NewPhpClassAction.0.22.1280.774" width="342" height="237" />
     <size key="svn.repositoryBrowser.0.22.1280.774" width="537" height="435" />
-    <size key="MultipleFileMergeDialog.0.22.1280.774" width="900" height="524" />
-    <size key="DiffWindow" width="1152" height="574" />
     <size key="FrameworkRunConsoleActionPopup.0.22.1280.774" width="300" height="44" />
     <size key="GitCloneDialog" width="765" height="170" />
+    <size key="MultipleFileMergeDialog.0.22.1280.774" width="900" height="524" />
+    <size key="DiffWindow" width="1152" height="574" />
     <size key="dock-window-2.0.22.1280.774" width="1920" height="1080" />
     <size key="GitCloneDialog.0.22.1280.774" width="765" height="190" />
     <size key="dock-window-1.-1680.38.1680.1050" width="1171" height="690" />

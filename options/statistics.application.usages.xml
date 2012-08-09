@@ -261,31 +261,66 @@
       <project id="Backend" values="0" />
       <project id="fashionette" values="0" />
     </group>
-    <group name="file-type">
-      <project id="doctrine.dev" values="JSON,YAML,PHP,XML,UNKNOWN,Images,PLAIN_TEXT,Markdown" />
-      <project id="pollex" values="PLAIN_TEXT,UNKNOWN,JavaScript,YAML,CSS,Markdown,HTML,JSON,XML,Images" />
-      <project id="phing" values="XML,PHP,Smarty,JavaScript,ARCHIVE,PLAIN_TEXT,Images,HTML,SQL,UNKNOWN,CSS" />
-      <project id="phingofficial-phing-f3e60a4" values="XML,CSS,SQL,Smarty,PLAIN_TEXT,HTML,PHP,Images,UNKNOWN,JavaScript" />
-      <project id="subnetter" values="UNKNOWN,XML" />
-      <project id="chat" values="UNKNOWN" />
-      <project id="mercury_oxid-all-4.5-build1" values="Smarty,SQL,PLAIN_TEXT,XML,HTML,PHP,Images,UNKNOWN,JavaScript,CSS" />
-      <project id="together" values="HTML,JavaScript,Images,JSON,Markdown,XML,htaccess,PLAIN_TEXT,PHP,SmartyConfig,SQL,UNKNOWN,CSS,YAML" />
-      <project id="OXID_admin_2_0" values="PLAIN_TEXT,htaccess,UNKNOWN,Smarty,SQL,HTML,CSS,JavaScript,JSON,XML,Images,PHP" />
-      <project id="mashboard" values="CSS,UNKNOWN,PLAIN_TEXT,XML,Markdown" />
-      <project id="TattooModels" values="UNKNOWN" />
-      <project id="sfBlog" values="Images,JavaScript,SASS,XML,LESS,PLAIN_TEXT,SCSS,JSON,UNKNOWN,SQL,Twig,htaccess,Markdown,CSS,PHP,YAML,Smarty" />
-      <project id="school" values="UNKNOWN" />
-      <project id="www.schokoladen-kunst.de" values="PHP,JavaScript,htaccess,PLAIN_TEXT,DTD,HTML,CSS,XML,SmartyConfig,SQL,SCSS,UNKNOWN,Smarty,Images" />
-      <project id="drupal-7.12" values="XML,PLAIN_TEXT,SQL,Images,JavaScript,HTML,SCSS,PHP,CSS,UNKNOWN,htaccess" />
-      <project id="htdocs" values="ARCHIVE,C#,SCSS,DTD,LESS,Perl,HTML,Native,SASS,JavaScript,YAML,JSON,PLAIN_TEXT,UNKNOWN,C++,PATCH,SmartyConfig,SQL,CSS,Images,Smarty,Twig,ASP,XHTML,Markdown,PHP,htaccess,XML" />
-      <project id="jira_timer" values="XML,UNKNOWN" />
-      <project id="slexboard" values="JavaScript,Twig,JSON,Markdown,SQL,YAML,PHP,Smarty,HTML,htaccess,UNKNOWN,CSS,XML,PLAIN_TEXT,Images" />
-    </group>
     <group name="run-configuration-type-temp">
       <project id="www.schokoladen-kunst.de" values="PhpLocalRunConfigurationType" />
       <project id="pollex" values="PHPUnitRunConfigurationType" />
       <project id="Vaillant-ETShop" values="Unknown" />
       <project id="slexboard" values="PhpLocalRunConfigurationType" />
+    </group>
+    <group name="file-type">
+      <project id="doctrine.dev" values="UNKNOWN,Images,XML,JSON,Markdown,PHP,YAML,PLAIN_TEXT" />
+      <project id="pollex" values="JavaScript,YAML,Images,JSON,PLAIN_TEXT,CSS,XML,UNKNOWN,Markdown,HTML" />
+      <project id="phing" values="Smarty,PHP,ARCHIVE,SQL,XML,JavaScript,PLAIN_TEXT,HTML,Images,UNKNOWN,CSS" />
+      <project id="phingofficial-phing-f3e60a4" values="JavaScript,PLAIN_TEXT,SQL,CSS,Images,XML,PHP,Smarty,UNKNOWN,HTML" />
+      <project id="subnetter" values="UNKNOWN,XML" />
+      <project id="chat" values="UNKNOWN" />
+      <project id="mercury_oxid-all-4.5-build1" values="HTML,PLAIN_TEXT,SQL,PHP,Smarty,UNKNOWN,JavaScript,XML,Images,CSS" />
+      <project id="together" values="CSS,YAML,JavaScript,PLAIN_TEXT,SmartyConfig,PHP,UNKNOWN,htaccess,JSON,Markdown,HTML,Images,XML,SQL" />
+      <project id="OXID_admin_2_0" values="SQL,PLAIN_TEXT,Images,htaccess,UNKNOWN,PHP,JSON,Smarty,CSS,HTML,JavaScript,XML" />
+      <project id="mashboard" values="XML,UNKNOWN,CSS,PLAIN_TEXT,Markdown" />
+      <project id="TattooModels" values="UNKNOWN" />
+      <project id="sfBlog" values="JavaScript,Smarty,JSON,XML,SQL,Images,Twig,UNKNOWN,PHP,LESS,SCSS,YAML,SASS,PLAIN_TEXT,CSS,htaccess,Markdown" />
+      <project id="school" values="UNKNOWN" />
+      <project id="www.schokoladen-kunst.de" values="PLAIN_TEXT,JavaScript,XML,SQL,SCSS,SmartyConfig,HTML,Images,DTD,Smarty,htaccess,CSS,UNKNOWN,PHP" />
+      <project id="drupal-7.12" values="JavaScript,PHP,XML,UNKNOWN,htaccess,Images,SCSS,CSS,HTML,SQL,PLAIN_TEXT" />
+      <project id="htdocs" values="PATCH,Perl,XHTML,LESS,JavaScript,Twig,SQL,C++,Markdown,ARCHIVE,htaccess,XML,C#,Native,PHP,SmartyConfig,Images,SASS,HTML,UNKNOWN,DTD,Smarty,SCSS,CSS,PLAIN_TEXT,YAML,JSON,ASP" />
+      <project id="jira_timer" values="XML,UNKNOWN" />
+      <project id="slexboard" values="Twig,Images,Markdown,htaccess,YAML,SQL,Smarty,PLAIN_TEXT,XML,HTML,JavaScript,JSON,UNKNOWN,CSS,PHP" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kos_old" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="pollex" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="Vaillant-ETShop" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="vagrant" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="buildsystems" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="kos_deploy" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="oxid" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="www.schokoladen-kunst.de" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="kos_drupal2" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="mobileTravisCI" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="kos_drupal" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="mobile.travis-ci" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="config" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="symfony-standard" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="fashionette" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="kos_old" values="DEFAULT" />
+      <project id="pollex" values="DEFAULT" />
+      <project id="Vaillant-ETShop" values="DEFAULT" />
+      <project id="vagrant" values="DEFAULT" />
+      <project id="buildsystems" values="DEFAULT" />
+      <project id="kos_deploy" values="DEFAULT" />
+      <project id="oxid" values="DEFAULT" />
+      <project id="www.schokoladen-kunst.de" values="DEFAULT" />
+      <project id="mobileTravisCI" values="DEFAULT" />
+      <project id="kos_drupal2" values="DEFAULT" />
+      <project id="config" values="DEFAULT" />
+      <project id="mobile.travis-ci" values="DEFAULT" />
+      <project id="kos_drupal" values="DEFAULT" />
+      <project id="symfony-standard" values="DEFAULT" />
+      <project id="slexboard" values="DEFAULT" />
+      <project id="fashionette" values="DEFAULT" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="kos_old" values="0" />
@@ -312,41 +347,6 @@
       <project id="jira_timer" values="0" />
       <project id="slexboard" values="0" />
       <project id="fashionette" values="0" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="kos_old" values="DEFAULT" />
-      <project id="pollex" values="DEFAULT" />
-      <project id="Vaillant-ETShop" values="DEFAULT" />
-      <project id="vagrant" values="DEFAULT" />
-      <project id="buildsystems" values="DEFAULT" />
-      <project id="kos_deploy" values="DEFAULT" />
-      <project id="oxid" values="DEFAULT" />
-      <project id="www.schokoladen-kunst.de" values="DEFAULT" />
-      <project id="mobileTravisCI" values="DEFAULT" />
-      <project id="kos_drupal2" values="DEFAULT" />
-      <project id="config" values="DEFAULT" />
-      <project id="mobile.travis-ci" values="DEFAULT" />
-      <project id="kos_drupal" values="DEFAULT" />
-      <project id="symfony-standard" values="DEFAULT" />
-      <project id="slexboard" values="DEFAULT" />
-      <project id="fashionette" values="DEFAULT" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="kos_old" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="pollex" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="Vaillant-ETShop" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="vagrant" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="buildsystems" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="kos_deploy" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="oxid" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="www.schokoladen-kunst.de" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="kos_drupal2" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="mobileTravisCI" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="kos_drupal" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="mobile.travis-ci" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="config" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="symfony-standard" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="fashionette" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
     </group>
   </component>
   <component name="UsageTrigger">

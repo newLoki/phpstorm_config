@@ -6,41 +6,41 @@
       <mapping ext="bak" type="CSS" />
       <removed_mapping ext="markdown" type="Markdown" />
       <mapping ext="dist" type="PHP" />
-      <mapping pattern=".shared_folder" type="PLAIN_TEXT" />
-      <mapping pattern="80_disable-check-valid-until" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="TestCase" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".dummy" type="PLAIN_TEXT" />
-      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
-      <mapping pattern="configurations" type="PLAIN_TEXT" />
-      <mapping pattern="logserver" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
-      <mapping pattern="answers" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_aliases" type="PLAIN_TEXT" />
       <mapping pattern=".multitailrc" type="PLAIN_TEXT" />
-      <mapping pattern="doctrine" type="PLAIN_TEXT" />
-      <mapping pattern="Make" type="PLAIN_TEXT" />
+      <mapping pattern=".shared_folder" type="PLAIN_TEXT" />
       <mapping pattern="rake" type="PLAIN_TEXT" />
+      <mapping pattern="configurations" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="logserver" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_aliases" type="PLAIN_TEXT" />
+      <mapping pattern="80_disable-check-valid-until" type="PLAIN_TEXT" />
+      <mapping pattern="answers" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Make" type="PLAIN_TEXT" />
+      <mapping pattern="doctrine" type="PLAIN_TEXT" />
       <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern="preferences" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="TestCase" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping ext="con" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
-      <mapping ext="io_harvester" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="styl" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="crdownload" type="PLAIN_TEXT" />
+      <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="markdown" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="min" type="PLAIN_TEXT" />
       <mapping ext="mdown" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="rb" type="PLAIN_TEXT" />
-      <mapping ext="styl" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="crdownload" type="PLAIN_TEXT" />
       <mapping ext="jsojn" type="PLAIN_TEXT" />
-      <mapping ext="pp" type="Puppet" />
+      <mapping ext="con" type="PLAIN_TEXT" />
+      <mapping ext="io_harvester" type="PLAIN_TEXT" />
+      <mapping ext="pp" type="Puppet manifests" />
       <mapping ext="scssc" type="SCSS" />
       <mapping ext="old" type="XHTML" />
       <mapping ext="svg" type="XML" />
